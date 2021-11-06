@@ -1,6 +1,17 @@
-# me config
+# ⚙️ me config
 
-all the dotfiles for my minimal terminal-and-vim-based build of Artix Linux.
+all the dotfiles for my minimal terminal-and-vim-based Artix Linux environment
+
+```txt
+baul@art
+----------------- 
+OS: Artix Linux (OpenRC)
+Host: Dell XPS 15 9560
+Kernel: 5.14.12
+Shell: zsh 5.8
+WM: dwm 6.2
+Terminal: st 0.8.4
+```
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
