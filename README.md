@@ -1,4 +1,4 @@
-# ⚙️ me config
+# 🌌 me dotfiles
 
 all the dotfiles for my minimal terminal-and-vim-based Artix Linux environment
 
