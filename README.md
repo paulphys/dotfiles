@@ -6,7 +6,7 @@ all the configuration files for my minimal terminal-and-vim-based Artix Linux en
 baul@art
 ----------------- 
 OS: Artix Linux (OpenRC)
-Host: Dell XPS 15 9560
+Host: XPS 15 9560
 Kernel: 5.14.12
 Shell: zsh 5.8
 WM: dwm 6.2
