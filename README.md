@@ -1,4 +1,4 @@
-# 🌍 me dotfiles
+# dotfiles
 
 all the configuration files for my minimal terminal-and-vim-based Artix Linux environment
 
@@ -34,7 +34,7 @@ These dotfiles are intended to go with numerous suckless programs I use:
 - [dmenu](https://github.com/baulml/dmenu) (dynamic menu)
 - [st](https://github.com/baulml/st) (terminal emulator)
 
-## Install my dotfiles and all their dependencies
+## Install
 
 Use Luke Smith's [LARBS](https://larbs.xyz) to autoinstall everything:
 
