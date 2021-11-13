@@ -1,4 +1,4 @@
-# dotfiles
+# paul's dotfiles
 
 all configuration files for my minimal terminal-and-vim-based Artix Linux environment
 
@@ -29,10 +29,10 @@ Terminal: st 0.8.4
 
 These dotfiles are intended to go with numerous suckless programs I use:
 
-- [dwm](https://github.com/baulml/dwm) (window manager)
-- [dwmblocks](https://github.com/baulml/dwmblocks) (statusbar)
-- [dmenu](https://github.com/baulml/dmenu) (dynamic menu)
-- [st](https://github.com/baulml/st) (terminal emulator)
+- [dwm](https://github.com/paulphys/dwm) (window manager)
+- [dwmblocks](https://github.com/paulphys/dwmblocks) (statusbar)
+- [dmenu](https://github.com/paulphys/dmenu) (dynamic menu)
+- [st](https://github.com/paulphys/st) (terminal emulator)
 
 ## Install
 
