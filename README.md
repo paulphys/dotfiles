@@ -1,9 +1,9 @@
 # dotfiles
 
-all the configuration files for my minimal terminal-and-vim-based Artix Linux environment
+all configuration files for my minimal terminal-and-vim-based Artix Linux environment
 
 ```txt
-baul@art
+paul@art
 ----------------- 
 OS: Artix Linux (OpenRC)
 Host: XPS 15 9560
