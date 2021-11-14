@@ -1,4 +1,5 @@
 # paul's dotfiles
+![system2021](.local/share/artix2021.png)
 
 all configuration files for my minimal terminal-and-vim-based Artix Linux environment
 
