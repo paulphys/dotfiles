@@ -35,13 +35,3 @@ These dotfiles are intended to go with numerous suckless programs I use:
 - [dmenu](https://github.com/paulphys/dmenu) (dynamic menu)
 - [st](https://github.com/paulphys/st) (terminal emulator)
 
-## Install
-
-Use Luke Smith's [LARBS](https://larbs.xyz) to autoinstall everything:
-
-```
-curl -LO larbs.xyz/larbs.sh
-```
-
-or clone the repo files directly to your home directory and install the
-[dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv).
