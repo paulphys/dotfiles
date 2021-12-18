@@ -1,17 +1,16 @@
 # paul's dotfiles
-![system2021](.local/share/artix2021.png)
 
-all configuration files for my minimal terminal-and-vim-based Artix Linux environment
+All configuration files for my terminal-and-vim-based Artix Linux environment
 
 ```txt
 paul@art
 ----------------- 
 OS: Artix Linux (OpenRC)
 Host: XPS 15 9560
-Kernel: 5.14.12
+Kernel: 5.15.8
 Shell: zsh 5.8
-WM: dwm 6.2
-Terminal: st 0.8.4
+WM: dwm 
+Terminal: st
 ```
 
 - Very useful scripts are in `~/.local/bin/`
@@ -23,13 +22,11 @@ Terminal: st 0.8.4
 	- mpd/ncmpcpp (music)
 	- sxiv (image/gif viewer)
 	- mpv (video player)
+	- obsidian (note-taking)
 - I try to minimize what's directly in `~` so:
 	- All configs that can be in `~/.config/` are.
 
-## Usage
-
-These dotfiles are intended to go with numerous suckless programs I use:
-
+## Custom builds
 - [dwm](https://github.com/paulphys/dwm) (window manager)
 - [dwmblocks](https://github.com/paulphys/dwmblocks) (statusbar)
 - [dmenu](https://github.com/paulphys/dmenu) (dynamic menu)
