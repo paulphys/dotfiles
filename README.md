@@ -1,6 +1,6 @@
 # paul's dotfiles
 
-All configuration files for my terminal-and-vim-based Artix Linux environment
+all configuration files for my terminal-and-vim-based Artix Linux build
 
 ```txt
 paul@art
